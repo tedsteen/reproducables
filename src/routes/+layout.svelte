@@ -1,0 +1,3 @@
+<a href="1">1</a> | <a href="2">2</a> | <a href="3">3</a>
+<hr/>
+<slot />
